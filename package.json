@@ -1,0 +1,31 @@
+{
+  "name": "apiforinstamatt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasHernanSerrato/apiForFirstRNAPP.git"
+  },
+  "author": "Matt Serrato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasHernanSerrato/apiForFirstRNAPP/issues"
+  },
+  "homepage": "https://github.com/MatiasHernanSerrato/apiForFirstRNAPP#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
